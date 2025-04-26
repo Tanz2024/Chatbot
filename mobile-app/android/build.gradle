@@ -1,0 +1,48 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext {
+        buildToolsVersion = '35.0.0'
+        minSdkVersion = 24
+        compileSdkVersion = 35
+        targetSdkVersion = 34
+        kotlinVersion = '1.9.25'
+        ndkVersion = "26.1.10909125"
+    }
+
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.2.2' // ✅ Modern plugin version
+        classpath 'com.facebook.react:react-native-gradle-plugin' // ✅ Auto-managed by RN
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion" // ✅ Kotlin plugin
+    }
+}
+
+// ✅ Required for React Native projects using newer CLI
+apply plugin: "com.facebook.react.rootproject"
+
+allprojects {
+    repositories {
+        // ✅ React Native
+        maven {
+            url(new File(
+                ['node', '--print', "require.resolve('react-native/package.json')"]
+                .execute(null, rootDir).text.trim(), '../android'))
+        }
+
+        // ✅ JSC
+        maven {
+            url(new File(
+                ['node', '--print', "require.resolve('jsc-android/package.json', { paths: [require.resolve('react-native/package.json')] })"]
+                .execute(null, rootDir).text.trim(), '../dist'))
+        }
+
+        google()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' } // For third-party libs
+    }
+}

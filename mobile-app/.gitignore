@@ -1,0 +1,127 @@
+# ----------------------------------
+# 📱 React Native + Expo (Full Setup)
+# ----------------------------------
+
+# Dependencies
+node_modules/
+
+# Expo generated folders
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# Metro bundler
+.metro-cache/
+metro.config.js.*
+
+# Environment Variables
+.env
+.env.*
+.env.*.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Build outputs
+build/
+build-*/ 
+debug/
+release/
+
+# Android
+android/.gradle/
+android/.cxx/
+android/.idea/
+android/build/
+android/local.properties
+android/*.iml
+android/captures/
+android/app/build/
+android/app/*.apk
+android/keystores/
+android/app/src/androidTest/
+
+# iOS
+ios/
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserstate
+Pods/
+DerivedData/
+
+# Native artifacts
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Log files
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+.firebaserc
+
+# Sentry
+.sentryclirc
+.sentry/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# CodePush (if using)
+codepush.*.json
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Miscellaneous
+*.orig.*
+*.pem
+*.cert
+*.csr
+
+# Example app files
+app-example/
+example/
+
+# Ignore EAS build artifacts
+*.tar.gz
+eas-build/
+
+# Storybook (if used)
+.storybook/
+
+# Prettier and ESLint cache
+.prettiercache
+.eslintcache
