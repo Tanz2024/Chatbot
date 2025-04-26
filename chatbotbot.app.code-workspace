@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "chatbot",
+			"path": "."
+		},
+		{
+			"name": "chatbotmob",
+			"path": "../../../../../../chatbotmob"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

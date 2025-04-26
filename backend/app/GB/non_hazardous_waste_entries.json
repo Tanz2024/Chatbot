@@ -1,0 +1,101 @@
+[
+    {
+        "id": 34,
+        "wasteName": "Plastic",
+        "collectionDate": "2025-01-03",
+        "quantity": 0.11,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Paper",
+        "cost": 0.12,
+        "createdAt": "2025-01-03 11:50:03.283000+08:00",
+        "updatedAt": "2025-01-03 11:50:08.841000+08:00"
+    },
+    {
+        "id": 35,
+        "wasteName": "Paper",
+        "collectionDate": "2022-01-15",
+        "quantity": 500.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Paper",
+        "cost": 250.0,
+        "createdAt": "2025-01-03 11:51:13.739000+08:00",
+        "updatedAt": "2025-01-03 11:51:13.739000+08:00"
+    },
+    {
+        "id": 36,
+        "wasteName": "Plastic",
+        "collectionDate": "2022-01-20",
+        "quantity": 300.0,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Plastic",
+        "cost": 150.0,
+        "createdAt": "2025-01-03 11:51:13.739000+08:00",
+        "updatedAt": "2025-01-03 11:51:13.739000+08:00"
+    },
+    {
+        "id": 37,
+        "wasteName": "Organic",
+        "collectionDate": "2022-01-25",
+        "quantity": 700.0,
+        "disposalMethod": "Landfill",
+        "wasteCategory": "Organic",
+        "cost": 100.0,
+        "createdAt": "2025-01-03 11:51:13.739000+08:00",
+        "updatedAt": "2025-01-03 11:51:13.739000+08:00"
+    },
+    {
+        "id": 38,
+        "wasteName": "Paper A",
+        "collectionDate": "2023-10-15",
+        "quantity": 500.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Paper",
+        "cost": 2500.0,
+        "createdAt": "2025-01-03 11:51:42.405000+08:00",
+        "updatedAt": "2025-01-03 11:51:42.405000+08:00"
+    },
+    {
+        "id": 39,
+        "wasteName": "Plastic B",
+        "collectionDate": "2023-11-20",
+        "quantity": 300.0,
+        "disposalMethod": "Landfill",
+        "wasteCategory": "Plastic",
+        "cost": 1500.0,
+        "createdAt": "2025-01-03 11:51:42.405000+08:00",
+        "updatedAt": "2025-01-03 11:51:42.405000+08:00"
+    },
+    {
+        "id": 40,
+        "wasteName": "Paper",
+        "collectionDate": "2022-01-15",
+        "quantity": 500.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Paper",
+        "cost": 250.0,
+        "createdAt": "2025-01-03 12:22:34.024000+08:00",
+        "updatedAt": "2025-01-03 12:22:34.024000+08:00"
+    },
+    {
+        "id": 41,
+        "wasteName": "Plastic",
+        "collectionDate": "2022-01-15",
+        "quantity": 300.0,
+        "disposalMethod": "Landfill",
+        "wasteCategory": "Plastic",
+        "cost": 150.0,
+        "createdAt": "2025-01-03 12:22:34.024000+08:00",
+        "updatedAt": "2025-01-03 12:22:34.024000+08:00"
+    },
+    {
+        "id": 42,
+        "wasteName": "Organic",
+        "collectionDate": "2022-01-15",
+        "quantity": 200.0,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Organic",
+        "cost": 100.0,
+        "createdAt": "2025-01-03 12:22:34.024000+08:00",
+        "updatedAt": "2025-01-03 12:22:34.024000+08:00"
+    }
+]

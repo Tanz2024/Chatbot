@@ -1,0 +1,167 @@
+[
+    {
+        "id": 2,
+        "wasteName": "Test",
+        "collectionDate": "2024-12-21",
+        "quantity": 12.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Metal",
+        "cost": 16.0,
+        "createdAt": "2024-12-20 12:04:02.171000+08:00",
+        "updatedAt": "2024-12-20 12:04:02.171000+08:00"
+    },
+    {
+        "id": 3,
+        "wasteName": "Test",
+        "collectionDate": "2024-12-19",
+        "quantity": 6.0,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Metal",
+        "cost": 9.0,
+        "createdAt": "2024-12-20 15:45:44.568000+08:00",
+        "updatedAt": "2024-12-20 15:45:44.568000+08:00"
+    },
+    {
+        "id": 6,
+        "wasteName": "Test4",
+        "collectionDate": "2024-12-11",
+        "quantity": 8.0,
+        "disposalMethod": "Others",
+        "wasteCategory": "Others",
+        "cost": 7.0,
+        "createdAt": "2024-12-24 14:50:51.692000+08:00",
+        "updatedAt": "2024-12-24 14:50:51.692000+08:00"
+    },
+    {
+        "id": 7,
+        "wasteName": "test",
+        "collectionDate": "2024-12-31",
+        "quantity": 6.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Organic",
+        "cost": 6.0,
+        "createdAt": "2024-12-31 10:45:56.151000+08:00",
+        "updatedAt": "2024-12-31 10:45:56.151000+08:00"
+    },
+    {
+        "id": 14,
+        "wasteName": "Paper A",
+        "collectionDate": "2023-10-15",
+        "quantity": 500.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Paper",
+        "cost": 2500.0,
+        "createdAt": "2024-12-31 16:45:04.003000+08:00",
+        "updatedAt": "2024-12-31 16:45:04.003000+08:00"
+    },
+    {
+        "id": 15,
+        "wasteName": "Plastic B",
+        "collectionDate": "2023-11-20",
+        "quantity": 300.0,
+        "disposalMethod": "Landfill",
+        "wasteCategory": "Plastic",
+        "cost": 1500.0,
+        "createdAt": "2024-12-31 16:45:04.003000+08:00",
+        "updatedAt": "2024-12-31 16:45:04.003000+08:00"
+    },
+    {
+        "id": 16,
+        "wasteName": "test",
+        "collectionDate": "2025-01-02",
+        "quantity": 5.0,
+        "disposalMethod": "Others",
+        "wasteCategory": "Organic",
+        "cost": 16.0,
+        "createdAt": "2025-01-02 14:16:26.385000+08:00",
+        "updatedAt": "2025-01-02 14:16:26.385000+08:00"
+    },
+    {
+        "id": 17,
+        "wasteName": "Test",
+        "collectionDate": "2025-01-02",
+        "quantity": 11.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Organic",
+        "cost": 16.0,
+        "createdAt": "2025-01-02 15:14:30.553000+08:00",
+        "updatedAt": "2025-01-02 15:14:30.553000+08:00"
+    },
+    {
+        "id": 18,
+        "wasteName": "Test",
+        "collectionDate": "2025-01-02",
+        "quantity": 6.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Organic",
+        "cost": 11.0,
+        "createdAt": "2025-01-02 15:38:02.945000+08:00",
+        "updatedAt": "2025-01-02 15:38:02.945000+08:00"
+    },
+    {
+        "id": 19,
+        "wasteName": "test",
+        "collectionDate": "2025-01-02",
+        "quantity": 8.0,
+        "disposalMethod": "Recycling",
+        "wasteCategory": "Organic",
+        "cost": 11.0,
+        "createdAt": "2025-01-02 15:59:23.557000+08:00",
+        "updatedAt": "2025-01-02 15:59:23.557000+08:00"
+    },
+    {
+        "id": 20,
+        "wasteName": "test",
+        "collectionDate": "2025-01-02",
+        "quantity": 9.0,
+        "disposalMethod": "Landfill",
+        "wasteCategory": "Glass",
+        "cost": 10.0,
+        "createdAt": "2025-01-02 16:00:25.062000+08:00",
+        "updatedAt": "2025-01-02 16:00:25.062000+08:00"
+    },
+    {
+        "id": 21,
+        "wasteName": "Paper",
+        "collectionDate": "2022-01-15",
+        "quantity": 500.0,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Paper",
+        "cost": 250.0,
+        "createdAt": "2025-01-03 12:43:40.911000+08:00",
+        "updatedAt": "2025-01-03 12:43:40.911000+08:00"
+    },
+    {
+        "id": 22,
+        "wasteName": "Plastic",
+        "collectionDate": "2022-01-20",
+        "quantity": 300.0,
+        "disposalMethod": "Others",
+        "wasteCategory": "Plastic",
+        "cost": 150.0,
+        "createdAt": "2025-01-03 12:43:40.911000+08:00",
+        "updatedAt": "2025-01-03 12:43:40.911000+08:00"
+    },
+    {
+        "id": 23,
+        "wasteName": "Organic",
+        "collectionDate": "2022-01-25",
+        "quantity": 400.0,
+        "disposalMethod": "Composting",
+        "wasteCategory": "Organic",
+        "cost": 200.0,
+        "createdAt": "2025-01-03 12:43:40.911000+08:00",
+        "updatedAt": "2025-01-03 12:43:40.911000+08:00"
+    },
+    {
+        "id": 24,
+        "wasteName": "Test",
+        "collectionDate": "2025-01-08",
+        "quantity": 5.0,
+        "disposalMethod": "Test",
+        "wasteCategory": "Test",
+        "cost": 10.0,
+        "createdAt": "2025-01-08 17:08:58.668000+08:00",
+        "updatedAt": "2025-01-08 17:08:58.668000+08:00"
+    }
+]

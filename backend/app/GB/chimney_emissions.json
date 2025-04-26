@@ -1,0 +1,24 @@
+[
+    {
+        "id": 2,
+        "chimneyID": "CH-013",
+        "measurementDate": "2023-10-15",
+        "SO2": 30.0,
+        "NOx": 40.0,
+        "CO": 3.5,
+        "PM10": 50.0,
+        "location": "Location A",
+        "aqi": 85
+    },
+    {
+        "id": 3,
+        "chimneyID": "CH-014",
+        "measurementDate": "2023-11-20",
+        "SO2": 45.0,
+        "NOx": 60.0,
+        "CO": 5.0,
+        "PM10": 70.0,
+        "location": "Location B",
+        "aqi": 95
+    }
+]

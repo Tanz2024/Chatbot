@@ -1,0 +1,18 @@
+[
+    {
+        "user_prompt": "Hi",
+        "bot_response": "Hello! How can I assist you today?"
+    },
+    {
+        "user_prompt": "Hi",
+        "bot_response": "Hello! How can I assist you today?"
+    },
+    {
+        "user_prompt": "Can I see the energy consumption of 31st January?",
+        "bot_response": "The energy consumption for January 31, 2025, is as follows:\n\n- Block A: 1988.25\n- Block B: 2421.87\n- Block C: 4756.25"
+    },
+    {
+        "user_prompt": "\u0986\u09ae\u09bf \u099c\u09be\u09a8\u09cb\u09b0\u09bf \u09a5\u09be\u099f\u09bf \u09ab\u09be\u09b8\u09cd\u099f\u09c7\u09b0 \u098f\u09a8\u09be\u09b0\u09cd\u099c\u09bf \u0995\u09a8\u09cd\u099c\u09ae\u09cd\u09b7\u09ae\u09cd \u09a6\u09c7\u0996\u09c7 \u099a\u09be\u0987",
+        "bot_response": "\u098f\u09a8\u09be\u09b0\u09cd\u099c\u09bf \u0995\u09a8\u099c\u09be\u09ae\u09cd\u09aa\u09b6\u09a8 \u09e9\u09e7 \u099c\u09be\u09a8\u09c1\u09af\u09bc\u09be\u09b0\u09bf \u09e8\u09e6\u09e8\u09eb \u09a4\u09be\u09b0\u09bf\u0996\u09c7 \u09a8\u09bf\u09ae\u09cd\u09a8\u09b0\u09c2\u09aa:\n\n- \u09ac\u09cd\u09b2\u0995 A: 1988.25\n- \u09ac\u09cd\u09b2\u0995 B: 2421.87\n- \u09ac\u09cd\u09b2\u0995 C: 4756.25"
+    }
+]

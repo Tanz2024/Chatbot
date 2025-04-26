@@ -1,0 +1,67 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+logs/
+*.pid
+*.gz
+
+# Coverage reports
+coverage/
+htmlcov/
+.nyc_output/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Test files
+*.test.py
+*.spec.py
+
+# Temporary files
+tmp/
+temp/
+*.bak
+*.swp
+*.tmp
+
+# Certificates/Keys
+*.pem
+*.key
+*.crt
+*.p12
+*.p8
+
+# Uvicorn/Starlette temp
+instance/
+*.db
+
+# Docker files (if any)
+docker-compose.override.yml
+*.local
